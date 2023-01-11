@@ -1,0 +1,15 @@
+C:\lab\Kursach\bin\Debug\net6.0\Kursach.exe
+C:\lab\Kursach\bin\Debug\net6.0\Kursach.deps.json
+C:\lab\Kursach\bin\Debug\net6.0\Kursach.runtimeconfig.json
+C:\lab\Kursach\bin\Debug\net6.0\Kursach.dll
+C:\lab\Kursach\bin\Debug\net6.0\Kursach.pdb
+C:\lab\Kursach\obj\Debug\net6.0\Kursach.csproj.AssemblyReference.cache
+C:\lab\Kursach\obj\Debug\net6.0\Kursach.GeneratedMSBuildEditorConfig.editorconfig
+C:\lab\Kursach\obj\Debug\net6.0\Kursach.AssemblyInfoInputs.cache
+C:\lab\Kursach\obj\Debug\net6.0\Kursach.AssemblyInfo.cs
+C:\lab\Kursach\obj\Debug\net6.0\Kursach.csproj.CoreCompileInputs.cache
+C:\lab\Kursach\obj\Debug\net6.0\Kursach.dll
+C:\lab\Kursach\obj\Debug\net6.0\refint\Kursach.dll
+C:\lab\Kursach\obj\Debug\net6.0\Kursach.pdb
+C:\lab\Kursach\obj\Debug\net6.0\Kursach.genruntimeconfig.cache
+C:\lab\Kursach\obj\Debug\net6.0\ref\Kursach.dll
